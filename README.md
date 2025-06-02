@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Nandana</h1>
-<h3 align="center">Aspiring Full Stack Developer | Python & JavaScript Enthusiast | AI Curious</h3>
+<h1 align="center">Hi there 👋, I'm Nandana Nambiar</h1>
+<h3 align="center">Aspiring Python Full Stack Developer | Tech Enthusiast | AI Curious</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F78DA7&center=true&vCenter=true&width=435&lines=Code.+Create.+Contribute." alt="Typing SVG" />
@@ -9,10 +9,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Computer Engineering graduate from **Dhole Patil College of Engineering**
+- 🎓 Recent Computer Engineering Grad
 - 💻 I build real-world applications using **Python**, **Django**, **React**, and **MySQL**
 - 🔧 Strong focus on full stack web development and practical problem solving
-- 🧠 Exploring advanced topics in Django, React, and foundational ML/AI
+- 🧠 Exploring advanced topics in Django, React, and foundational AI/ML
 - 📌 Practicing DSA in **Java** for logic and structure
 
 ---
@@ -43,30 +43,22 @@
 #### 🔹 [Java MOOC Helsinki](https://github.com/nandana134/java-mooc-helsinki)  
 > 170+ exercises from the University of Helsinki’s Java Programming I course
 
-#### 🔹 [Django Calorie Tracker](https://github.com/nandana134/django-calorie-tracker)  
+#### 🔹 [Django Calorie Tracker](https://github.com/nandana134/Django-Calorie-Tracker)  
 > Full stack Django app to track daily calories using dropdowns and visual logs  
 > ⚠️ *Currently fixing deployment bug (dataset import)*
 
-#### 🔹 [GitHub Profile Finder](https://github.com/nandana134/github-profile-finder)  
-> React app using GitHub public API to fetch and display user data
-
 #### 🔹 [Healthcare Chatbot](https://github.com/nandana134/healthcare-chatbot)  
 > ML/NLP-based chatbot offering health suggestions from trained intent data
+
+#### 🔹 [GitHub Profile Finder](https://github.com/nandana134/Github-Profile-Finder)  
+> Simple website using GitHub public API to fetch and display user data
+
 
 #### 🔹 [Resume Generator](https://github.com/nandana134/dynamic-resume-generator)  
 > Minimal HTML/CSS resume creator from form input
 
 ---
 
-### 🤖 AI / ML Highlights
-
-- **Sign Language Recognition System**  
-  Real-time hand gesture detection using CNN logic + OpenCV + MediaPipe
-
-- **Healthcare Chatbot**  
-  Basic NLP-driven app for interactive symptom-based replies
-
----
 
 ### 📌 Currently Working On
 
@@ -80,6 +72,7 @@
 ### 📫 Connect with Me
 
 - GitHub: [@nandana134](https://github.com/nandana134)
+- LinkedIn: [Nandana Nambiar](www.linkedin.com/in/nandana-nambiar-643a03228)
 
 ---
 
