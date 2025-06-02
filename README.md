@@ -1,79 +1,79 @@
-<h1 align="center">Hi 👋, I'm Nandana</h1>
-<h3 align="center">Aspiring Python Full Stack Developer | Passionate About Real-World Applications & AI Projects</h3>
+<h1 align="center">Hi there 👋, I'm Nandana</h1>
+<h3 align="center">Aspiring Full Stack Developer | Python & JavaScript Enthusiast | AI Curious</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F78DA7&center=true&vCenter=true&width=435&lines=Code.+Create.+Contribute." alt="Typing SVG" />
+</p>
 
 ---
 
-### 🚀 About Me
+### 🧑‍💻 About Me
 
-- 🎓 Recent Computer Engineering graduate from **Dhole Patil College of Engineering**
-- 💻 I love building real-world applications using **Python**, **Django**, **React**, **HTML**, **CSS**, and **JavaScript**
-- 🧠 Currently improving my **DSA skills using Java** (just for better practice & structure)
-- 🛠️ Experienced with:
-  - Python Web Development (**Django** + **SQLite/MySQL**)
-  - Frontend (HTML, CSS, JavaScript, React)
-  - API Testing using **Postman**
-  - Working knowledge of **deployment using Render**
-  - Jupyter Notebook for ML/AI experiments
+- 🎓 Computer Engineering graduate from **Dhole Patil College of Engineering**
+- 💻 I build real-world applications using **Python**, **Django**, **React**, and **MySQL**
+- 🔧 Strong focus on full stack web development and practical problem solving
+- 🧠 Exploring advanced topics in Django, React, and foundational ML/AI
+- 📌 Practicing DSA in **Java** for logic and structure
 
 ---
 
-### ⚒️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 #### Languages:
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### Frameworks & Tools:
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-### 💼 Selected Projects
+### 🌟 Featured Projects
 
-#### 🔹 [Java MOOC Helsinki](https://github.com/nandana134/java-mooc-helsinki)
-> 170+ structured exercises from the University of Helsinki’s Java Programming I course.
+#### 🔹 [Java MOOC Helsinki](https://github.com/nandana134/java-mooc-helsinki)  
+> 170+ exercises from the University of Helsinki’s Java Programming I course
 
-#### 🔹 [Django Calorie Tracker](https://github.com/nandana134/Django-Calorie-Tracker)
-> Full stack Django app with HTML/CSS/JS & SQLite. Tracks calories using a dropdown of food items.  
-> ⚠️ *Currently fixing a deployment issue on Render due to a dataset import.*
+#### 🔹 [Django Calorie Tracker](https://github.com/nandana134/django-calorie-tracker)  
+> Full stack Django app to track daily calories using dropdowns and visual logs  
+> ⚠️ *Currently fixing deployment bug (dataset import)*
 
-#### 🔹 [Healthcare Chatbot](https://github.com/nandana134/healthcare-chatbot)
-> A mini ML chatbot that uses a trained JSON dataset to respond to user symptoms and suggest possible issues & remedies.
+#### 🔹 [GitHub Profile Finder](https://github.com/nandana134/github-profile-finder)  
+> React app using GitHub public API to fetch and display user data
 
-#### 🔹 [GitHub Profile Finder](https://github.com/nandana134/github-profile-finder)
-> A React-based web app that fetches and displays GitHub user info using GitHub’s public API.
+#### 🔹 [Healthcare Chatbot](https://github.com/nandana134/healthcare-chatbot)  
+> ML/NLP-based chatbot offering health suggestions from trained intent data
 
-#### 🔹 [Resume Generator](https://github.com/nandana134/dynamic-resume-generator)
-> Auto-generate professional resumes using HTML/CSS/JS and simple form inputs.
-
----
-
-### 🤖 AI / ML Projects
-
-- **Sign Language Recognition System** *(with CNN concepts)*  
-  Real-time hand gesture detection using OpenCV + MediaPipe to identify sign language symbols.
-
-- **Healthcare Chatbot** *(basic ML/NLP project)*  
-  Learns from intent-based JSON data to interact with users and return health-related advice.
-
+#### 🔹 [Resume Generator](https://github.com/nandana134/dynamic-resume-generator)  
+> Minimal HTML/CSS resume creator from form input
 
 ---
 
-### 🧠 Currently Working On
+### 🤖 AI / ML Highlights
 
-- Fixing deployment bug in Django Calorie Tracker  
-- Practicing DSA using Java (for logical structuring, not for backend dev)  
-- Learning advanced concepts in Django & React  
-- Exploring small AI/ML integrations with Python projects
+- **Sign Language Recognition System**  
+  Real-time hand gesture detection using CNN logic + OpenCV + MediaPipe
+
+- **Healthcare Chatbot**  
+  Basic NLP-driven app for interactive symptom-based replies
+
+---
+
+### 📌 Currently Working On
+
+- Fixing and deploying the **Django Calorie Tracker**
+- Enhancing **DSA problem-solving in Java**
+- Learning advanced Django/React concepts
+- Collaborating on a full stack **Store Rating Platform** project (MERN-based)
 
 ---
 
