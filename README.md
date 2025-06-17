@@ -38,24 +38,7 @@
 
 ---
 
-### 🌟 Featured Projects
 
-#### 🔹 [Java MOOC Helsinki](https://github.com/nandana134/java-mooc-helsinki)  
-> 170+ exercises from the University of Helsinki’s Java Programming I course
-
-#### 🔹 [Django Calorie Tracker](https://github.com/nandana134/Django-Calorie-Tracker)  
-> Full stack Django app to track daily calories using dropdowns and visual logs  
-> ⚠️ *Currently fixing deployment bug (dataset import)*
-
-#### 🔹 [Healthcare Chatbot](https://github.com/nandana134/healthcare-chatbot)  
-> ML/NLP-based chatbot offering health suggestions from trained intent data
-
-#### 🔹 [GitHub Profile Finder](https://github.com/nandana134/Github-Profile-Finder)  
-> Simple website using GitHub public API to fetch and display user data
-
-
-#### 🔹 [Resume Generator](https://github.com/nandana134/Dynamic-Resume-Generator)  
-> Minimal HTML/CSS resume creator from form input
 
 ---
 
@@ -65,7 +48,7 @@
 - Fixing and deploying the **Django Calorie Tracker**
 - Enhancing **DSA problem-solving in Java**
 - Learning advanced Django/React concepts
-- Collaborating on a full stack **Store Rating Platform** project (MERN-based)
+
 
 ---
 
