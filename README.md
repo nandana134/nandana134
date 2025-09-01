@@ -13,7 +13,7 @@
 - 💻 I’m building real-world applications using **Python**, **Django**, **MySQL**, and currently learning to integrate **React** into full stack projects
 - 🔧 Strong focus on full stack web development and practical problem solving
 - 🧠 Exploring advanced topics in Django, React, and foundational AI/ML
-- 📌 Practicing DSA in **Java** for logic and structure
+  
 
 ---
 
